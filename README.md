@@ -6,8 +6,8 @@ Given only the below animated gif for a mockup, the goal was to create a portfol
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
+![portfolio demo] (./assets/02-advanced-css-homework-demo.gif)
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
 
 ## User Story
 
@@ -43,6 +43,12 @@ First, I drew wireframes showing the layout of the webpage.
 Second, I created a very basic HTML outline for the Header, Body, and 3 Sections. Then, I created classes and used @media commands to ensure responsive layout. 
 
 Next, I started at the top and worked down the page completing the Header, Nav, Hero Image, "About Me" and "Contact Me." I knew the section with links to sample work would be the hardest, so I saved it for last. 
+
+## Collaborators
+None
+
+## License
+MIT License
 
 ## References
 
