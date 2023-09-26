@@ -6,7 +6,7 @@ Given only the below animated gif for a mockup, the goal was to create a portfol
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
-![portfolio demo] (./assets/02-advanced-css-homework-demo.gif)
+![portfolio demo] (assets/02-advanced-css-homework-demo.gif)
 
 
 ## User Story
@@ -40,6 +40,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 First, I drew wireframes showing the layout of the webpage. 
 
+
+
 Second, I created a very basic HTML outline for the Header, Body, and 3 Sections. Then, I created classes and used @media commands to ensure responsive layout. 
 
 Next, I started at the top and worked down the page completing the Header, Nav, Hero Image, "About Me" and "Contact Me." I knew the section with links to sample work would be the hardest, so I saved it for last. 
@@ -63,3 +65,9 @@ https://stackoverflow.com/questions/8010120/specifying-exact-percentage-widths-i
 
 List Spacing
 https://stackoverflow.com/questions/23226888/horizontal-list-items-fit-to-100-with-even-spacing
+
+## Photos
+Mountain photo by Chris Valada.
+
+Computer photo by <a href="https://unsplash.com/@clemhlrdt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clément Hélardot</a> on <a href="https://unsplash.com/photos/95YRwf6CNw8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

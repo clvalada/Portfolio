@@ -68,7 +68,8 @@ main {
 }
 
 .flex-container {
-    display: flex;
+  max-width: 1200px;  
+  display: flex;
     margin-left: 10% ;
     padding: 2%;
     align-items: center;
@@ -83,6 +84,17 @@ main {
 .content {
     width: 80%
 }
+
+img {
+  border: 1px solid black
+}
+
+.flex-container-works {
+  max-width: 600px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
 
 ul {
     display: flex;
