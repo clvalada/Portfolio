@@ -45,6 +45,8 @@ Second, I created a very basic HTML outline for the Header, Body, and 3 Sections
 
 Next, I started at the top and worked down the page completing the Header, Nav, Hero Image, "About Me" and "Contact Me." I knew the section with links to sample work would be the hardest, so I saved it for last. 
 
+Finally, I used flex containers and flex grids to align the sample works. 
+
 ## Collaborators
 None
 
@@ -64,6 +66,9 @@ https://stackoverflow.com/questions/8010120/specifying-exact-percentage-widths-i
 
 List Spacing
 https://stackoverflow.com/questions/23226888/horizontal-list-items-fit-to-100-with-even-spacing
+
+Flex Grid
+https://www.w3schools.com/css/css_grid_container.asp#:~:text=The%20grid%2Dtemplate%2Dcolumns%20Property&text=The%20value%20is%20a%20space,should%20have%20the%20same%20width.
 
 ## Photo Credits
 Mountain photo by Chris Valada.
