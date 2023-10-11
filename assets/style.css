@@ -84,11 +84,11 @@ main {
 .content {
     width: 80%
 }
-
+/*
 img {
   border: 1px solid black
 }
-
+*/
 .flex-container-works {
   max-width: 600px;
   display: grid;
