@@ -41,7 +41,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: url("hero.jpg");
+  background-image: url("/assets/hero.jpg");
   height: 25%;
   background-position: center;
   background-repeat: no-repeat;
