@@ -1,7 +1,6 @@
-# challenge-2
-Challenge 2 - Create a Portfolio
+My Portfolio
 
-Given only the below animated gif for a mockup, the goal was to create a portfolio web page for the user story and acceptance criteria. 
+As a full-time student at the University of Texas Austin full-stack developer bootcamp, I created this portfolio to hightlight some of my work. 
 
 ## Mock-Up
 
